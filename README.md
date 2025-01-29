@@ -1,4 +1,4 @@
-# vishnuex1
+
 #ex1
 git init
 git vi file_name.txt
