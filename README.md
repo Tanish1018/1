@@ -28,6 +28,7 @@ git clone url(paste)
 #exp5
 git init
 git remote add origin<git repo url>
+git fetch origin
 git rebase origin/main
 git log --oneline
 
